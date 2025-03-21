@@ -24,7 +24,7 @@ docker build -t test-ranking:latest .
 После успешной сборки контейнер можно запустить с обязательным аргументом `--query`, который задаёт поисковый запрос:
 (имя контейнера по желанию)
 ```bash
-docker run --name test-ranking-container test-ranking:latest --query "GigaGAN discriminator layers"
+docker run --name test-ranking-container test-ranking:latest --query "your text"
 ```
 
 🔹 **Обязательный параметр**:  

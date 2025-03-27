@@ -68,3 +68,8 @@ docker run --name test-ranking-container test-ranking:latest --query "GigaGAN di
 
 ![checkasdsa](https://github.com/user-attachments/assets/30893d23-dc25-4ef4-bd2f-e389c06d753e)
 
+
+## Добавлена поддержка поиска по картинкам. 
+
+Параметр в argparse --with_images
+

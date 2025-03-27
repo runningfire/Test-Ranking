@@ -1,4 +1,6 @@
 sentence_transformers
 pdfminer.six
 nltk
-numpy
+numpy,
+faiss-cpu,
+pillow
